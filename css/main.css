@@ -66,11 +66,16 @@ body {
   border-radius: 6px;
 }
 .header-link-sign {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
   font-weight: 500;
   color: #FFFFFF;
+  font-size: 18px;
+  line-height: 27px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+
   padding: 15px 30px;
 }
 .heading-hero {
